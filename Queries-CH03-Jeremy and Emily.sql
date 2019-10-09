@@ -28,3 +28,5 @@ FROM PROJECT
 WHERE Department = 'Finance';
 
 /* *** SQL-Query-CH03-08 *** */
+>> Returned empty result
+
